@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New AndroidProject</string>
+    <string name="msg1">Here,I am the text message</string>
+    <string name="msg2">here, I am the msg2</string>
+    <string name="msgGrt"><![CDATA[<<-]]></string>
+
+
+</resources>
